@@ -123,3 +123,20 @@ Open the app:
 Scan the QR code in the terminal using the Expo Go app on your phone, or
 Press w to open it in a web browser, 
 ##  screenshots.
+![image E](https://github.com/user-attachments/assets/7ce72f9e-8948-4218-a2c4-7afabe30f79c)
+
+![image A](https://github.com/user-attachments/assets/6308f673-bfe6-4806-b54f-06701a15d9a0)
+
+![ice task4imqge](https://github.com/user-attachments/assets/2e2125af-f2c1-43e9-86dc-2093e4479811)
+![ice task4](https://github.com/user-attachments/assets/2b95324b-ea64-4b10-9088-815e2ed04277)
+![landscaping](https://github.com/user-attachments/assets/9942b9de-f297-4758-ba69-f76e9862c73b)
+[kinya.pdf](https://github.com/user-attachments/files/23032708/kinya.pdf)
+![inverter](https://github.com/user-attachments/assets/7bcc2423-c3e8-4335-bcd1-ad2b9e030560)
+![image E](https://github.com/user-attachments/assets/f454cfc3-99d1-4291-9e2b-30870b86e2d9)
+![image d](https://github.com/user-attachments/assets/46cffa97-3b70-46e6-b624-4d714b66f175)
+![Image c](https://github.com/user-attachments/assets/dfd827aa-6560-4232-9e28-f425c005ddfc)
+![Image  B](https://github.com/user-attachments/assets/8f18c148-e712-47cd-a986-862fbb46e370)
+![Image c](https://github.com/user-attachments/assets/5816ec35-7dc5-4294-ae27-75d3cd666616)
+![image d](https://github.com/user-attachments/assets/4b200175-fa50-41bf-8712-90c5eeff57cc)
+
+
