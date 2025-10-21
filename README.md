@@ -107,7 +107,7 @@ Steps
 
 Clone the repository or create the project:
 
-git clone 
+git clone https://github.com/base1825/PART2.git
 
 Install dependencies:
 
@@ -130,7 +130,14 @@ Press w to open it in a web browser,
 
 ![image d](https://github.com/user-attachments/assets/46cffa97-3b70-46e6-b624-4d714b66f175)
 ![Image c](https://github.com/user-attachments/assets/dfd827aa-6560-4232-9e28-f425c005ddfc)
-![Image  B](https://github.com/user-attachments/assets/8f18c148-e712-47cd-a986-862fbb46e370)
+![Image  B](https://github.com/user-attachments/assets/8
+<img width="671" height="652" alt="Screenshot 2025-10-22 004207" src="https://github.com/user-attachments/assets/e5d8729c-8ea5-42ac-8de0-590f1a86b6cf" />
+f18c148-e712-47cd-a986-862fbb46e370)
 
 
+<img width="966" height="616" alt="Screenshot 2025-10-22 004300" src="https://github.com/user-attachments/assets/9d090fe5-f191-4f1a-a4dd-9fa9e14c7601" />
+<img width="895" height="649" alt="Screenshot 2025-10-22 004317" src="https://github.com/user-attachments/assets/1d9510c1-7475-4097-8bba-15ec268d09c6" />
+
+
+<img width="743" height="659" alt="Screenshot 2025-10-22 004232" src="https://github.com/user-attachments/assets/98a46b39-0d0c-48a0-983d-1ea310082bdf" />
 
