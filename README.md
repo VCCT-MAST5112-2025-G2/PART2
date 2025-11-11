@@ -142,3 +142,87 @@ f18c148-e712-47cd-a986-862fbb46e370)
 <img width="743" height="659" alt="Screenshot 2025-10-22 004232" src="https://github.com/user-attachments/assets/98a46b39-0d0c-48a0-983d-1ea310082bdf" />
 ## Youtube : https://youtube.com/shorts/g06j4z-dnJY
 
+## PART2 
+this is the  updated version of the christoffel's kitcken app, built with **React Native** and ** Expo Router** 
+It allows Uaers to view,filter and add dishes to a digital reataurent menu.
+
+## Features
+## HOME SCREEN
+-Displays menu categories:**Starters**, **Mains** , **Desserts** , and **Drinks** 
+-Each category shows an **avreage price**
+-Two main buttons at the buttons
+-**Add Menu** for the chef to add new dishes
+-**View Full Menu**  to browse all items 
+
+### Add Mwnu Screen
+-Lets Chefs add new dishes with :
+ Lets chefs add new dishes with:
+  - Dish name  
+  - Description  
+  - Price  
+  - Course (Starter, Main, Dessert, Drink)
+- Displays:
+  - Total number of dishes added
+  - Average price per course
+- Includes a button to navigate to **Filter Page**.
+
+  
+###  Filter Screen
+- Displays menu items filtered by course or full list.
+- Connected to shared **MenuContext**, so any new dish added in *Add Menu* is instantly visible.
+ 
+##Context Management
+
+The app uses a central `MenuContext` located in:
+App/content/MenuContext.tsx
+This handles:
+- Global menu storage  
+- `addDish` and `removeDish` functions  
+- Data sharing between **AddMenu** and **Filter** pages
+- 
+##  Tech Stack
+- **React Native (Expo)**
+- **Expo Router**
+- **TypeScript**
+- **Context API**
+- **uuid** for unique dish IDs
+
+
+##  How It Works
+1. The `MenuProvider` wraps the app (in `_layout.tsx`), making menu data available globally.
+2. The **AddMenu** page updates the shared state using `addDish()`.
+3. The **Filter** page reads from the same state via `useMenu()`.
+4. The **Home** screen provides category navigation and quick actions.
+
+##  Preview
+![app1](https://github.com/user-attachments/assets/59b80722-748a-45d2-a902-b0f7d666afe4)
+![app2](https://github.com/user-attachments/assets/af9ee61c-b3c9-43aa-8049-acb3ae48e9ee)
+![app3](https://github.com/user-attachments/assets/db83309d-74cb-4249-8202-c6cde937b2b2)
+
+![app4](https://github.com/user-attachments/assets/ab5c602e-6ac8-4f5b-985a-f603f8c564b8)
+
+![app5](https://github.com/user-attachments/assets/a2e0bd0a-d8a2-4a42-bda3-d7fd8fb441db)
+
+![app7](https://github.com/user-attachments/assets/020f4a7c-b3d7-4c24-8ccb-912fa4ac34a9)
+
+![app8](https://github.com/user-attachments/assets/dff902fd-6540-4217-8c7c-7dc65f0f46d5)
+![app9](https://github.com/user-attachments/assets/a875ba25-f7e4-4a1c-89ff-779abae9aea9)
+![app10](https://github.com/user-attachments/assets/0b02d60d-2fd0-45e5-bce8-6617dc874317)
+
+
+## Installation
+
+1. Clone the repo:
+   bash
+   git clone https://github.com/base1825/christApp-new.git
+   cd christApp-new
+Install dependencies:
+npm install
+Run the app:
+-npx expo start
+
+
+
+
+
+
