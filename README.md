@@ -60,6 +60,7 @@ Smooth layout using React Native’s Flexbox and ScrollView.
 Well-structured text and icons for a polished experience.
 
 ## Technologies Used
+
 Library	Purpose
 React Native	UI and component structure
 Expo	Simplified development and deployment
@@ -76,7 +77,7 @@ Enter Dish Details
 
 Type the name and description of the dish.
 
-Enter the price in Rands (R).
+Enter the price in Rands ($).
 
 Add Dish
 
@@ -220,7 +221,16 @@ Install dependencies:
 npm install
 Run the app:
 -npx expo start
+ my youtube video: https://youtube.com/shorts/14cySYlRJXQ?feature=share
 
+## REFENCES
+Mobile scrpting app MAST5112/p/w.module outline:(first edition 2022)
+
+
+## AI Assistance Disclosure
+
+Some parts of this project (such as wording improvements and minor code suggestions) were assisted by OpenAI’s ChatGPT (GPT-5).  
+All core logic, design decisions, and implementation were done by the project author.
 
 
 
